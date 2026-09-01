@@ -264,6 +264,19 @@ AI
  ├── AI Agents
  └── Generative AI Applications
 ```
+📊 GitHub Analytics
+
+<div align="center">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled9881&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
